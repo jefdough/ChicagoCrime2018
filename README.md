@@ -1,6 +1,8 @@
 # ChicagoCrime2018
 
 <https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2> <br>
+Map of the reports:<br>
+<https://public.tableau.com/profile/jeffrey3694#!/vizhome/ChicagoCrime2018/Map><br>
 
 The city of Chicago provides crime records to the public.  
 I pulled a csv file for 2018, and then used Openrefine to breakdown/clean up the address column.  
